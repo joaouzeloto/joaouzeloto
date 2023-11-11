@@ -1,6 +1,5 @@
 ### Olá! Eu sou João Uzeloto 👋
 
-- 🌱 Estudando Java, C++ e C
   ##
 <div>
 <a href="https://github.com/joaouzeloto">
