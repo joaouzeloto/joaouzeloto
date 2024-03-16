@@ -1,5 +1,5 @@
 ### Olá! Eu sou João Uzeloto 👋
-#### Atualmente sou estudante de Sistemas de Informação na Universidade do Oeste Paulista!
+#### Atualmente estudante de Sistemas de Informação na Universidade do Oeste Paulista!
   ## 
 <div>
 <a href="https://github.com/joaouzeloto">
