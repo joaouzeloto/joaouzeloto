@@ -1,9 +1,9 @@
 ### Olá! Eu sou João Uzeloto 👋
-
-  ##
+#### Atualmente sou estudante de Sistemas de Informação na Universidade do Oeste Paulista!
+  ## 
 <div>
 <a href="https://github.com/joaouzeloto">
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaouzeloto&layout=compact&langs_count=7&theme=graywhite"/> 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaouzeloto&layout=compact&langs_count=7&theme=graywhite"/> 
 </div>
 <a><h3>Ferramentas e Tecnologias</h3></a>  
 <div>  
