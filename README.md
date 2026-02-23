@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o João Uzeloto  
 
-🎓 Estudante de **Sistemas de Informação** na **Universidade do Oeste Paulista (UNOESTE)**  
+🎓 Formado em **Sistemas de Informação** na **Universidade do Oeste Paulista (UNOESTE)**  
 💻 Focado em **desenvolvimento de software** e **boas práticas de TI**
 
 ---
